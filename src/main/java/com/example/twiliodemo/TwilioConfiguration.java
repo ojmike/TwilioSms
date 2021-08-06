@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 public class TwilioConfiguration {
     private String accountSid;
     private String authToken;
-    private String trialNumnber;
+    private String trialNumber;
 
     public TwilioConfiguration() {
     }
@@ -29,11 +29,11 @@ public class TwilioConfiguration {
         this.authToken = authToken;
     }
 
-    public String getTrialNumnber() {
-        return trialNumnber;
+    public String getTrialNumber() {
+        return trialNumber;
     }
 
-    public void setTrialNumnber(String trialNumnber) {
-        this.trialNumnber = trialNumnber;
+    public void setTrialNumber(String trialNumber) {
+        this.trialNumber = trialNumber;
     }
 }

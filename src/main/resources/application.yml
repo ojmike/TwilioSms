@@ -1,4 +1,5 @@
 twilio:
-  account_sid: AC6ce8bce2b0ceadbf6fcce05bf012bdf7
-  auth_token: 4a9973bece8502edc679d0ca9983c04c
-  trial_number: +16122605497
+  account_sid: ################################
+  auth_token: #################################
+  trial_number: #############
+
